@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="D:\Source\FirstAndroidApp\FirstAndroidApp\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\Source\FirstAndroidApp\FirstAndroidApp\src\debug\assets" />
+    </dataSet>
+
+</merger>
